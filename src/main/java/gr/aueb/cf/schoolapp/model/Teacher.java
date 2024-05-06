@@ -1,7 +1,6 @@
 package gr.aueb.cf.schoolapp.model;
 
 public class Teacher {
-
     private Integer id;
     private String firstname;
     private String lastname;
